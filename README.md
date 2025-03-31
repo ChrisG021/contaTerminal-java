@@ -9,7 +9,7 @@ Um projeto em Java para simular a criação de uma conta bancária via terminal.
 ## Como executar 💻
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/Conta-banco.git
+   git clone https://github.com/ChrisG021/contaTerminal-java.git
 2. entre na pasa do projeto:
     ```sh
     cd Conta-banco
