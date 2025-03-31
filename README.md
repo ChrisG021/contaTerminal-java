@@ -23,13 +23,13 @@ Um projeto em Java para simular a criação de uma conta bancária via terminal.
     ------------------- BANCO BD -------------------
     - Seja bem-vindo ao banco BD!
     Por favor, digite o número da agência: 1234
-    Digite o número da conta: 56789
+    Usuário:7517 (depois ENTER)
     Digite seu nome: João Silva
     Digite o valor a ser depositado de início: 1500.00
 
     -------------------------------------------
     Olá, senhor(a) João Silva, obrigado por criar uma conta em nosso banco.
     Sua agência: 1234
-    Conta: 56789
+    Conta: 7517
     Saldo disponível para saque: R$ 1500.0
     -------------------------------------------
